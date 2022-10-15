@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+Flutter project (flutter_blue 0.8.0)
+
+Если сборка завершается ошибкой: "Error connecting to the service protocol: failed to connect to http://127.0.0.1:56647/x0aT-knbalo=/" Тогда просто запустите закройте и повторно откройте приложение на телефоне.
